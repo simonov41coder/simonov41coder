@@ -17,7 +17,7 @@
 ### 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,zig" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,zig" draggable="false" />
 </p>
 
 ---
@@ -25,11 +25,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go" draggable="false" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" draggable="false" />
 </p>
 
 ---
@@ -59,6 +59,6 @@
 ### ⚡ Current Focus
 
 ```text
-- Building on mobile (Termux grind)
+- Building stuff on mobile (Termux grind 💀)
 - Learning low-level programming
-- APIs & backend experiments
+- Experimenting with APIs & systems

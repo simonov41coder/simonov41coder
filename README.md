@@ -4,8 +4,6 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/I%20brew-delicious%20code-2c313a?style=for-the-badge&color=2c313a&labelColor=61afef&logoColor=1e222a" />
-
   <img src="https://img.shields.io/github/followers/simonov41coder?label=Followers&style=flat-square&color=2c313a&labelColor=98c379" />
   <img src="https://img.shields.io/github/stars/simonov41coder?label=Stars&style=flat-square&color=2c313a&labelColor=e5c07b" />
   <img src="https://img.shields.io/badge/Mobile%20Dev-Termux-2c313a?style=flat-square&color=2c313a&labelColor=61afef" />

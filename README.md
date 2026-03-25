@@ -80,19 +80,17 @@ return M
 </p>
 
 <div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e222a&height=200&section=header&text=Simonov&fontSize=40&fontColor=61afef" />
+</p>
 
-<!-- NvChad statusline simulation -->
-<img src="https://img.shields.io/badge/%20NORMAL%20-%2398c379?style=flat-square&labelColor=98c379&color=1e222a" />
-<img src="https://img.shields.io/badge/%20simonov41coder%20-abb2bf?style=flat-square&labelColor=2c313a&color=2c313a" />
-<img src="https://img.shields.io/badge/%20main%20-c678dd?style=flat-square&labelColor=2c313a&color=2c313a" />
-<img src="https://img.shields.io/badge/%20README.md%20-abb2bf?style=flat-square&labelColor=2c313a&color=2c313a" />
-<img src="https://img.shields.io/badge/%20utf--8%20-5c6370?style=flat-square&labelColor=2c313a&color=2c313a" />
+<div align="center">
 
-<br/><br/>
+  <img src="https://img.shields.io/badge/I%20brew-delicious%20code-2c313a?style=for-the-badge&color=2c313a&labelColor=61afef&logoColor=1e222a" />
 
-<img src="https://img.shields.io/github/followers/simonov41coder?label=followers&style=flat-square&color=abb2bf&labelColor=2c313a&logo=github" />
-<img src="https://img.shields.io/github/stars/simonov41coder?label=stars&style=flat-square&color=e5c07b&labelColor=2c313a&logo=github" />
-<img src="https://img.shields.io/badge/Termux-mobile%20dev-61afef?style=flat-square&labelColor=2c313a&logo=android&logoColor=61afef" />
+  <img src="https://img.shields.io/github/followers/simonov41coder?label=Followers&style=flat-square&color=2c313a&labelColor=98c379" />
+  <img src="https://img.shields.io/github/stars/simonov41coder?label=Stars&style=flat-square&color=2c313a&labelColor=e5c07b" />
+  <img src="https://img.shields.io/badge/Mobile%20Dev-Termux-2c313a?style=flat-square&color=2c313a&labelColor=61afef" />
 
 </div>
 
@@ -100,36 +98,21 @@ return M
 
 ### 🧠 Currently Learning
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=1e222a&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=1e222a&labelColor=2c313a" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,zig" draggable="false" />
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go" draggable="false" />
+</p>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=1e222a&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=2c313a" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/GitHub-abb2bf?style=flat-square&logo=github&logoColor=1e222a&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=1e222a&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/NvChad-57A143?style=flat-square&logo=neovim&logoColor=white&labelColor=2c313a" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" draggable="false" />
+</p>
 
 ---
 
@@ -137,9 +120,9 @@ return M
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/War%20Thunder-Gamer-78a960?style=flat-square&labelColor=2c313a&logo=steam&logoColor=78a960" />
-<img src="https://img.shields.io/badge/Arena%20Breakout-Loot%20Goblin-e06c75?style=flat-square&labelColor=2c313a" />
-<img src="https://img.shields.io/badge/Low--Level-Enjoyer-c678dd?style=flat-square&labelColor=2c313a" />
+<img src="https://img.shields.io/badge/War%20Thunder-Gamer-2c313a?style=for-the-badge&color=2c313a&labelColor=98c379" />
+<img src="https://img.shields.io/badge/Arena%20Breakout-Loot%20Goblin-2c313a?style=for-the-badge&color=2c313a&labelColor=e06c75" />
+<img src="https://img.shields.io/badge/Low--Level-Enjoyer-2c313a?style=for-the-badge&color=2c313a&labelColor=c678dd" />
 
 </div>
 
@@ -148,11 +131,8 @@ return M
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonov41coder&show_icons=true&hide_border=true&bg_color=1e222a&title_color=61afef&icon_color=98c379&text_color=abb2bf&ring_color=c678dd" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simonov41coder&show_icons=true&hide_border=true&bg_color=1e222a&title_color=61afef&icon_color=98c379&text_color=abb2bf" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonov41coder&layout=compact&hide_border=true&bg_color=1e222a&title_color=61afef&text_color=abb2bf" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=simonov41coder&hide_border=true&background=1e222a&stroke=2c313a&ring=c678dd&fire=e5c07b&currStreakLabel=61afef&sideLabels=61afef&currStreakNum=abb2bf&sideNums=abb2bf&dates=5c6370" />
 </div>
 
@@ -161,13 +141,13 @@ return M
 ### ⚡ Current Focus
 
 ```text
-  Building stuff on mobile  (Termux grind 💀)
-  Learning low-level programming
-  Experimenting with APIs & systems
+- Building stuff on mobile (Termux grind 💀)
+- Learning low-level programming
+- Experimenting with APIs & systems
 ```
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e222a&height=100&section=footer" />
+</p>
+or=1e222a&height=100&section=footer" />
 </p>

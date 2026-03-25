@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e222a&height=200&section=header&text=Simonov&fontSize=60&fontColor=61afef" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=200&section=header&text=Simonov&fontSize=60&fontColor=d9c9b6&fontAlignY=38&desc=brews%20delicious%20code%20%E2%98%95&descSize=15&descFontColor=a67c5a&descAlignY=58" />
 </p>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/I%20brew-delicious%20code-2c313a?style=for-the-badge&color=2c313a&labelColor=61afef&logoColor=1e222a" />
+  <img src="https://img.shields.io/badge/I%20brew-delicious%20code-23120b?style=for-the-badge&labelColor=6f4224&color=23120b" />
 
-  <img src="https://img.shields.io/github/followers/simonov41coder?label=Followers&style=flat-square&color=2c313a&labelColor=98c379" />
-  <img src="https://img.shields.io/github/stars/simonov41coder?label=Stars&style=flat-square&color=2c313a&labelColor=e5c07b" />
-  <img src="https://img.shields.io/badge/Mobile%20Dev-Termux-2c313a?style=flat-square&color=2c313a&labelColor=61afef" />
+  <br/><br/>
+
+  <img src="https://img.shields.io/github/followers/simonov41coder?label=Followers&style=flat-square&labelColor=352d1d&color=23120b&logo=github&logoColor=d9c9b6" />
+  <img src="https://img.shields.io/github/stars/simonov41coder?label=Stars&style=flat-square&labelColor=352d1d&color=23120b&logo=github&logoColor=c3a58c" />
+  <img src="https://img.shields.io/badge/Mobile%20Dev-Termux-23120b?style=flat-square&labelColor=522d16&color=23120b" />
 
 </div>
 
@@ -38,9 +40,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/War%20Thunder-Gamer-2c313a?style=for-the-badge&color=2c313a&labelColor=98c379" />
-<img src="https://img.shields.io/badge/Arena%20Breakout-Loot%20Goblin-2c313a?style=for-the-badge&color=2c313a&labelColor=e06c75" />
-<img src="https://img.shields.io/badge/Low--Level-Enjoyer-2c313a?style=for-the-badge&color=2c313a&labelColor=c678dd" />
+<img src="https://img.shields.io/badge/War%20Thunder-Gamer-23120b?style=for-the-badge&labelColor=522d16&color=23120b" />
+<img src="https://img.shields.io/badge/Arena%20Breakout-Loot%20Goblin-23120b?style=for-the-badge&labelColor=6f4224&color=23120b" />
+<img src="https://img.shields.io/badge/Low--Level-Enjoyer-23120b?style=for-the-badge&labelColor=8d5a34&color=23120b" />
 
 </div>
 
@@ -65,6 +67,6 @@
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e222a&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=100&
+    section=footer" />
 </p>
-

@@ -23,11 +23,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go,kotlin" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,cpp,go,kotlin" draggable="false" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,astro" draggable="false" />
 </p>
 
 ---

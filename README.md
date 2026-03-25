@@ -67,7 +67,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simonov41coder/simonov41coder/output/snake.svg" alt="Snake animation" draggable="false" />
+  <img src="https://raw.githubusercontent.com/simonov41coder/simonov41coder/output/snake-dark.svg" alt="Snake animation" draggable="false" />
 </p>
 
 ---
@@ -75,3 +75,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=100&section=footer" />
 </p>
+

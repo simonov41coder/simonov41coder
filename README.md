@@ -4,17 +4,10 @@
 
 <div align="center">
 
-  <!-- Tagline -->
   <img src="https://img.shields.io/badge/I%20brew-delicious%20code-d9c9b6?style=for-the-badge" />
 
-  <!-- Social / Support (optional, remove if not needed) -->
-  <!--
-  [![Trakteer](https://img.shields.io/badge/Trakteer-Support-red?style=for-the-badge)](https://trakteer.id/YOUR_LINK)
-  -->
-
-  <!-- Stats badges -->
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars" />
+  <img src="https://img.shields.io/github/followers/simonov41coder?label=Followers" />
+  <img src="https://img.shields.io/github/stars/simonov41coder?label=Stars" />
   <img src="https://img.shields.io/badge/Mobile%20Dev-Termux-blue" />
 
 </div>
@@ -24,7 +17,7 @@
 ### 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,zig" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,zig" />
 </p>
 
 ---
@@ -32,11 +25,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
@@ -56,9 +49,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simonov41coder&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonov41coder&layout=compact&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=simonov41coder&theme=transparent&hide_border=true" />
 </div>
 
 ---
@@ -66,6 +59,6 @@
 ### ⚡ Current Focus
 
 ```text
-- Building stuff on mobile (Termux grind 💀)
+- Building on mobile (Termux grind)
 - Learning low-level programming
-- Experimenting with APIs & systems
+- APIs & backend experiments

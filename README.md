@@ -15,7 +15,7 @@
 ### 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,zig" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,zig,kotlin" draggable="false" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go,kotlin" draggable="false" />
 </p>
 
 <p align="center">

@@ -16,7 +16,7 @@ jobs:
           github_user_name: simonov41coder
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?color_snake=c0c0c0&color_dots=#23120b,#351d10,#522d16,#6f4224,#8d5a34
+            dist/snake-dark.svg?color_snake=#c0c0c0&color_dots=#23120b,#351d10,#522d16,#6f4224,#8d5a34
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

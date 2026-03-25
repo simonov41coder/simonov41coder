@@ -46,19 +46,13 @@
 
 ### 📊 GitHub Stats
 
-<table align="center" border="0" cellspacing="0" cellpadding="4">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=simonov41coder&show_icons=true&hide_border=true&bg_color=23120b&title_color=d9c9b6&icon_color=a67c5a&text_color=c3a58c&ring_color=8d5a34" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonov41coder&layout=compact&hide_border=true&bg_color=23120b&title_color=d9c9b6&text_color=c3a58c" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=simonov41coder&hide_border=true&background=23120b&stroke=351d10&ring=8d5a34&fire=a67c5a&currStreakLabel=d9c9b6&sideLabels=d9c9b6&currStreakNum=c3a58c&sideNums=c3a58c&dates=6f4224" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simonov41coder&show_icons=true&hide_border=true&bg_color=23120b&title_color=d9c9b6&icon_color=a67c5a&text_color=c3a58c&ring_color=8d5a34" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonov41coder&layout=compact&hide_border=true&bg_color=23120b&title_color=d9c9b6&text_color=c3a58c" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=simonov41coder&hide_border=true&background=23120b&stroke=351d10&ring=8d5a34&fire=a67c5a&currStreakLabel=d9c9b6&sideLabels=d9c9b6&currStreakNum=c3a58c&sideNums=c3a58c&dates=6f4224" />
+</div>
 
 ---
 
@@ -71,5 +65,6 @@
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=100&se
+    ction=footer" />
 </p>

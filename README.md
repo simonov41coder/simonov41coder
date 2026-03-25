@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm <span style="color='#d9c9b6'"> Simonov </span> . I brew delicious code.
 
 
 ![simonov41coder's Stats](https://github-readme-stats.vercel.app/api?username=simonov41coder&theme=slateorange&show_icons=true&hide_border=false&count_private=false)

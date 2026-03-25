@@ -15,7 +15,7 @@
 ### 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,zig,kotlin" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,zig" draggable="false" />
 </p>
 
 ---
@@ -23,11 +23,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,cpp,go,kotlin" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go" draggable="false" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,astro" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" draggable="false" />
 </p>
 
 ---
@@ -47,11 +47,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonov41coder&show_icons=true&hide_border=true&bg_color=23120b&title_color=d9c9b6&icon_color=a67c5a&text_color=c3a58c&ring_color=8d5a34&card_width=500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simonov41coder&show_icons=true&hide_border=true&card_width=500&bg_color=23120b&title_color=d9c9b6&icon_color=a67c5a&text_color=c3a58c&ring_color=8d5a34" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonov41coder&layout=compact&hide_border=true&bg_color=23120b&title_color=d9c9b6&text_color=c3a58c&card_width=500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonov41coder&layout=compact&hide_border=true&card_width=500&bg_color=23120b&title_color=d9c9b6&text_color=c3a58c" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=simonov41coder&hide_border=true&background=23120b&stroke=351d10&ring=8d5a34&fire=a67c5a&currStreakLabel=d9c9b6&sideLabels=d9c9b6&currStreakNum=c3a58c&sideNums=c3a58c&dates=6f4224&card_width=500" />
+  <img src="https://streak-stats.demolab.com?user=simonov41coder&hide_border=true&width=500&background=23120b&stroke=351d10&ring=8d5a34&fire=a67c5a&currStreakLabel=d9c9b6&sideLabels=d9c9b6&currStreakNum=c3a58c&sideNums=c3a58c&dates=6f4224" />
 </div>
 
 ---
@@ -64,7 +64,14 @@
 - Experimenting with APIs & systems
 ```
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=100&se
-    ction=footer" />
+  <img src="https://raw.githubusercontent.com/simonov41coder/simonov41coder/output/snake.svg" alt="Snake animation" draggable="false" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=100&section=footer" />
 </p>

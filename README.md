@@ -1,6 +1,5 @@
 <p align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=200&section=header&text=Simonov&fontSize=60&fontColor=d9c9b6&fontAlignY=38&desc=brews%20delicious%20code%20%E2%98%95&descSize=15&descFontColor=a67c5a&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=220&section=header&text=Simonov&fontSize=80&fontColor=d9c9b6&fontAlignY=38&desc=brews%20delicious%20code%20%E2%98%95&descSize=15&descFontColor=a67c5a&descAlignY=58" />
 </p>
 
 <div align="center">
@@ -64,6 +63,6 @@
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=100&s
-    ection=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=23120b&height=100&se
+    ction=footer" />
 </p>

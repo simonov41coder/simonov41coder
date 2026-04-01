@@ -34,10 +34,10 @@
 
 ### 🎮 Interests
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/War%20Thunder-Gamer-23120b?style=for-the-badge&labelColor=522d16&color=23120b" />
-<img src="https://img.shields.io/badge/Arena%20Breakout-Loot%20Goblin-23120b?style=for-the-badge&labelColor=6f4224&color=23120b" />
+<img src="https://img.shields.io/badge/Blue%20Archive-Waifu%20Hunter-23120b?style=for-the-badge&labelColor=6f4224&color=23120b" />
 <img src="https://img.shields.io/badge/Low--Level-Enjoyer-23120b?style=for-the-badge&labelColor=8d5a34&color=23120b" />
 
 </div>

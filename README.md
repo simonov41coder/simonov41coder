@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/z36mlv3c/image/upload/v1785492318/Kayoko_iftcew.svg" width="56" height="56" />
+  <img src="https://res.cloudinary.com/z36mlv3c/image/upload/v1785493487/kayoko_w_kmkwk6.svg" width="56" height="56" />
 </p>
 
 <p align="center">

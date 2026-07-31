@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Kayoko&fontSize=80&fontColor=fafafa&fontAlignY=38&desc=builds%20things%2C%20breaks%20things%2C%20somehow%20makes%20them%20work%20%F0%9F%94%A5&descSize=15&descFontColor=06b6d4&descAlignY=58" />
+  <img src="https://res.cloudinary.com/z36mlv3c/image/upload/v1785492318/Kayoko_iftcew.svg" width="56" height="56" />
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/z36mlv3c/image/upload/v1785492318/Kayoko_iftcew.svg" width="40" height="40" style="margin-top:-190px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Kayoko&fontSize=80&fontColor=fafafa&fontAlignY=38&desc=builds%20things%2C%20breaks%20things%2C%20somehow%20makes%20them%20work%20%F0%9F%94%A5&descSize=15&descFontColor=06b6d4&descAlignY=58" />
 </p>
 
 <div align="center">
